@@ -4,7 +4,7 @@ This is a script intended to be used for Adobe After Effects (AE)
 
 ---
 
-## What is does:
+## What it does:
 Takes an AE composition with many layers and breaks it down into compositions and subcompositions based on layer naming. 
 E.g. layers named in this way:
 ```
