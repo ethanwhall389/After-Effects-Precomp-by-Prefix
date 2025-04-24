@@ -41,6 +41,6 @@ This script was specifically created for use when bringing in Adobe Illustrator 
 
 Options: 
 - `Separate comps by: ` this option allows you to define what separator you are using in your layer naming.
-  - E.g. if you'd rather name your layers "comp1_text01, comp1_text02" simply change the separator in the script from "/" to "_".
+  - E.g. if you'd rather name your layers "comp1_text01, comp1_text02" simply change the separator in the panel from "/" to "_".
   - The only requirement is that all your layers you want nesting to apply to must use the same separator.
 
