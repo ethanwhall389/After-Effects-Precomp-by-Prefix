@@ -25,7 +25,11 @@ This script was specifically created for use when bringing in Adobe Illustrator 
 ## Usage
 - Download the .jsx file
 - Navigate to `C:\Users\ehall\AppData\Roaming\Adobe\After Effects\[version]`
-- Create the following folders: `\Scripts\ScriptUI Panels`
+- Create the following folders inside the version folder:
+  ```
+  \Scripts
+    L ScriptUI Panels
+  ```
 - Place `PrecompByPrefix.jsx` into the `ScriptUI Panels` folder.
 - In After Effects open `Edit > Preferences > Scripting & Expressions`
   - Make sure "Allow Scripts to Write Files and Access Network" is checked 
