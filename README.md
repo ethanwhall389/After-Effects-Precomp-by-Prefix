@@ -20,7 +20,7 @@ comp1
 comp2
   L text01
 ```
-This script was specifically created for use when bringing in Adobe Illustrator files into After Effects since there is no supported way to have after effects interpret Illustrator layer grouping into compositions.
+This script was specifically created for use when bringing in Adobe Illustrator files into After Effects since there is no supported way to have after effects interpret Illustrator layer grouping into compositions. However, it can be used to with any layers from anywhere as long as they are named consistently.
 
 ## Usage
 - Download the .jsx file
